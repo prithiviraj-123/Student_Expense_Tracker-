@@ -1,1 +1,2 @@
-# Student_Expense_Tracker-
+# Student Expense Tracker
+Run index.html in a browser.
